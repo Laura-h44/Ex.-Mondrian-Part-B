@@ -1,3 +1,3 @@
 # Ex. Mondrian. Part B
 
-Na conclusão deste primeiro exercício, copiei os códigos que usei para fazer a primeira parte do trabalho e também adicionei pontos-e-vírgulas (porque me tinha esquecido deles). De seguida, através do random(), adicionei tremor à linha mais central e vertical da composição, criando assim a desestabilização na obra.
+Na conclusão deste primeiro exercício, copiei os códigos que usei para fazer a primeira parte do trabalho e também adicionei pontos-e-vírgulas (porque me tinha esquecido deles). De seguida, através do random(), adicionei tremor à linha mais central e vertical da composição, criando assim a desestabilização na obra. Escolhi essa linha porque, ao estar centralizada e percorrer a tela de cima a baixo, tem mais destaque e assim, até mesmo uma pequena dissonância visual pode causar bastante impacto. 
